@@ -1,0 +1,15 @@
+build-base
+bash
+busybox
+ca-certificates
+curl
+git
+gnupg1
+imagemagick
+less
+libffi-dev
+libsodium-dev
+nodejs
+tzdata
+rsync
+yarn

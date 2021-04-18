@@ -1,0 +1,2 @@
+project=gitlab_tracker
+test=rspec

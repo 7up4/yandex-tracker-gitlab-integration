@@ -1,0 +1,11 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+
+/public/assets*
+
+/.idea/*
+.DS_Store
+.env.development
+.env.production
+.env.staging
